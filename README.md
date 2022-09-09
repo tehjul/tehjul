@@ -72,6 +72,8 @@ I'm a junior Java developer currently learning solidity to become a Web 3.0 deve
 
 #
 
+![GitHub Snake dark](https://github.com/tehjul/tehjul/blob/output/github-contribution-grid-snake.svg)
+
 [![Tehjul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehjul&theme=blue-green&hide=php)](https://github.com/tehjul/)
 
 
