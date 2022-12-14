@@ -2,7 +2,7 @@
 
 Hi there 👋 Welcome to my github !
 
-I'm a junior Java developer currently learning solidity to become a Web 3.0 developer.
+I'm a junior Java developer and recently learned blockchain development in a French blockchain school.
 
 # Languages
 
