@@ -2,7 +2,7 @@
 
 Hi there 👋 Welcome to my github !
 
-I'm a junior Java developer and recently learned blockchain development in a French blockchain school.
+I'm a Java developer and a blockchain developer.
 
 # Languages
 
