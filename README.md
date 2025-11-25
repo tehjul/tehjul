@@ -78,9 +78,8 @@ _Based in France 🇫🇷_
 
 <br/><br/>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=tehjul&show_icons=true&theme=dracula&locale=fr" alt="Tehjul's Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehjul&layout=compact&theme=dracula&hide=php,html,css" alt="Top Langs" height="180"/>
-  </p>
+|                                                        **Global Stats**                                                        |                                                         **Top Languages**                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| ![Tehjul's Stats](https://github-readme-stats.vercel.app/api?username=tehjul&show_icons=true&theme=dracula&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tehjul&layout=compact&theme=dracula&hide_border=true) |
 
 </div>
