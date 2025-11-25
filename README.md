@@ -38,8 +38,6 @@ I'm a Java developer and a blockchain developer.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-
 # IDE
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,7 +47,6 @@ I'm a Java developer and a blockchain developer.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
 
 # Other
 
@@ -68,11 +65,9 @@ I'm a Java developer and a blockchain developer.
 
 #
 
-![GitHub Snake dark](https://github.com/tehjul/tehjul/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/tehjul/tehjul/raw/output/github-contribution-grid-snake.svg)
 
 [![Tehjul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehjul&theme=blue-green&hide=php)](https://github.com/tehjul/)
-
-
 
 <!--
 **tehjul/tehjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
